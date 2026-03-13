@@ -1,0 +1,22 @@
+# Wells Fargo UI/UX Updates
+
+## Home Screen
+- Updated logo for enhanced visibility and brand alignment.
+
+## Search Bar
+- Redesigned search bar featuring the new Fargo AI icon for improved user experience.
+
+## Card Designs
+- Fresh card designs that enhance clarity and visual appeal.
+
+## Transfer Confirmation Animation
+- Introduced a smooth animation with a green checkmark to signify successful transfers.
+
+## Transaction History Redesign
+- Comprehensive redesign of the transaction history to streamline information access and improve readability.
+
+## Admin Transfer Restrictions
+- Implementation of admin controls to restrict unauthorized transfers.
+
+## Transfer Lock Modal
+- Added a confirmation modal for transfer locks to prevent accidental transfers and enhance security.
